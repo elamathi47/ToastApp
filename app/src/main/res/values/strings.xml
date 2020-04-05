@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToastApp</string>
+    <string name="app_button_2" />
+    <string name="app_button_1" />
+</resources>
